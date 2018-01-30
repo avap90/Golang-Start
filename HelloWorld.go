@@ -1,5 +1,13 @@
 package main
 
+import (
+	"time"
+)
+
 func main() {
-	println("Hell o World  !!! Golang St art!!  _5;")
+
+	for i := 0; i <= 100; i++ {
+		println("Hell o World  !!! Golang St art!!  _6;", i)
+		time.Sleep(50 * time.Millisecond)
+	}
 }

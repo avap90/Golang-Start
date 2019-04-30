@@ -8,5 +8,7 @@ hI Hi this is<br>
 Hangul <br>
 한글 나오나?dd<br>
 ddd<br>
+var requestSocket = new RequestSocket("&gt;tcp://localhost:5555"))
 HTML<br>
-      
+
+

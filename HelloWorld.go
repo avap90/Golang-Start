@@ -8,7 +8,7 @@ import (
 
 func main() {
 	for i := 0; i <= 100; i++ {
-		println("Hell o World  !!! Golang333rrc444444d Start!!;", i)
+		println("Hell o World  !!! Go ", i)
 		time.Sleep(1 * time.Millisecond)
 	}
 

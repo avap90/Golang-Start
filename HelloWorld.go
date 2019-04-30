@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"time"
 )
 
@@ -11,6 +10,4 @@ func main() {
 		time.Sleep(10 * time.Millisecond)
 	}
 
-	fmt.Println("머징???")
-	fmt.Println("응 아니야~~^-^;;")
 }
